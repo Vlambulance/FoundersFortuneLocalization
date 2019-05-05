@@ -63,6 +63,7 @@
 		"french": "Humeur",
 		"dutch": "Humeur",
 		"portuges": "Humor",
+		"dutch": "Humeur",
 	},
 
 	
@@ -157,7 +158,7 @@ Bonne agriculture !",
 		"portuges": "Tudo começa nos campos onde camponeses diligentes passam os dias cuidando de suas plantações. Dependendo da época, eles podem semear uma seleção diferente de plantas para fins alimentares ou medicinais. As plantas crescem, independentemente da qualidade dos seus cuidados, mas os bons agricultores usam os seus regadores para os manter a crescer optimamente e aumentar o seu rendimento.
 Agora, antes de começar a plantar como um louco, uma última palavra de aviso: todas as plantas que não são colhidas antes do final da temporada vão morrer sem dar comida à sua colônia!
 Boa agricultura!",
-		"Dutch": "Alles begint op het veld, waar hardwerkende boeren hun dagen besteden aan de zorg voor je gewassen.Ze kunnen afhankelijk van het seizoen een andere selectie planten voor voedsel of medicinale doeleinden zaaien.Planten groeien, hoe goed je ook voor ze zorgt, maar goed boeren gebruiken hun gieters om ze optimaal te laten groeien en hun opbrengst te verhogen.
+		"dutch": "Alles begint op het veld, waar hardwerkende boeren hun dagen besteden aan de zorg voor je gewassen.Ze kunnen afhankelijk van het seizoen een andere selectie planten voor voedsel of medicinale doeleinden zaaien.Planten groeien, hoe goed je ook voor ze zorgt, maar goed boeren gebruiken hun gieters om ze optimaal te laten groeien en hun opbrengst te verhogen.
 Nu voordat je als een gek begint te planten, een laatste woord van waarschuwing: alle planten die niet geoogst worden vóór het einde van hun seizoen zullen sterven zonder voedsel te geven aan je kolonie!
 Gelukkige Landbouw!.",
 	},
@@ -167,7 +168,7 @@ Gelukkige Landbouw!.",
 		"spanish": "Pretensiones de comida",
 		"french": "Attentes Alimentaires",
 		"portuges": "Expectativas alimentares",
-		"Dutch" : "Voedsel Verwachtingen",
+		"dutch": "Voedsel Verwachtingen",
 	},
 	"helpMenuText_foodProduction_expectations": {
 		"english": "Colonists can deal with a lot of hardship, but they are not dumb. When your colony grows in size and numbers, they will start to expect better food than just eating raw plants. Using the campfire or the kitchen you can make meals of higher quality for demanding colonists. If you can run a bakery as well, they will welcome the variety!
@@ -180,8 +181,7 @@ Algunos colonos tienen platillos favoritos y se alegran mucho cuando los consigu
 Certains colons ont leur repas préféré et ont un regain d'humeur s'ils le peuvent. D'autres sont allergiques à certains types d'aliments et les éviteront à tout prix. S'il n'y a rien d'autre disponible, ils peuvent être obligés de le manger, ce qui entraîne une réaction allergique.",
 		"portuges": "Os colonos podem enfrentar muitas dificuldades, mas não são idiotas. Quando sua colônia cresce em tamanho e números, eles vão começar a esperar comida melhor do que apenas comer plantas cruas. Ao usar fogueira ou cozinhar, você pode preparar refeições de melhor qualidade para os exigentes colonos. Se você também pode gerenciar uma padaria, eles vão apreciar a variedade!
 Alguns colonos têm sua refeição favorita e têm um impulso de humor, se puderem. Outros são alérgicos a certos tipos de alimentos e os evitam a todo custo. Se não houver mais nada disponível, eles podem ser forçados a comê-lo, resultando em uma reação alérgica.",
-		"Dutch": 
-"Kolonisten kunnen met veel ontberingen omgaan, maar ze zijn niet dom. Wanneer je kolonie in omvang en aantallen groeit, zullen ze beter voedsel verwachten dan alleen rauwe planten eten. Met behulp van het kampvuur of de keuken kun je maaltijden van hogere kwaliteit maken. kwaliteit voor veeleisende kolonisten. Als u ook een bakkerij kunt runnen, verwelkomen ze de variëteit!
+		"Dutch": "Kolonisten kunnen met veel ontberingen omgaan, maar ze zijn niet dom. Wanneer je kolonie in omvang en aantallen groeit, zullen ze beter voedsel verwachten dan alleen rauwe planten eten. Met behulp van het kampvuur of de keuken kun je maaltijden van hogere kwaliteit maken. kwaliteit voor veeleisende kolonisten. Als u ook een bakkerij kunt runnen, verwelkomen ze de variëteit!
 Sommige kolonisten hebben favoriete maaltijden en krijgen een stemmingsboost als ze het kunnen krijgen. Anderen zijn allergisch voor sommige soorten voedsel en zullen deze ten koste van alles vermijden. Als er niets anders beschikbaar is, kunnen ze gedwongen worden om het toch te eten - wat resulteert in een allergische reactie. ",
 	},
 	"helpMenuTitle_foodProduction_rations": {
@@ -190,7 +190,7 @@ Sommige kolonisten hebben favoriete maaltijden en krijgen een stemmingsboost als
 		"spanish": "Raciones de comida",
 		"french": "Rations Alimentaires",
 		"portuges": "Rações alimentares",
-		"Dutch": "Voedselrantsoenen",
+		"dutch": "Voedselrantsoenen",
 	},
 	"helpMenuText_foodProduction_rations": {
 		"english": "Winter is long and even the best colonies sometimes fail to perpare adequate stockpiles. If you worry about the survival of your colony, you can limit the food rations for each colonist. While this preserves more food for later, your colonists will feel weak and are are not going to be able to work as quickly. 
@@ -203,8 +203,7 @@ Por otro lado, si tienes una gran reserva de comida y te sobra, ¡puedes increme
 D'un autre côté, si vos stocks sont pleins et vos réserves abondantes, vous pouvez augmenter les rations de nourriture pour avoir plus de bonheur !",
 		"portuges": "O inverno é longo e até as melhores colônias às vezes não possuem estoques. Se você está preocupado com a sobrevivência da sua colônia, você pode limitar as rações de comida para cada cólon. Embora economize mais comida para mais tarde, seus colonos se sentirão mais fracos e não poderão trabalhar tão rápido.
 Por outro lado, se suas ações estiverem cheias e suas reservas abundantes, você poderá aumentar as rações de comida para ter mais felicidade!",
-		"Dutch": 
-"De winter is lang en zelfs de beste kolonies slagen soms niet in voldoende voorraden. Als je je zorgen maakt over het voortbestaan ​​van je kolonie, kun je de voedselrantsoenen voor elke kolonist beperken. Hoewel dit meer voedsel voor later bewaart, zullen je kolonisten zich zwak voelen en ze zullen niet zo snel kunnen werken.
+		"dutch": "De winter is lang en zelfs de beste kolonies slagen soms niet in voldoende voorraden. Als je je zorgen maakt over het voortbestaan ​​van je kolonie, kun je de voedselrantsoenen voor elke kolonist beperken. Hoewel dit meer voedsel voor later bewaart, zullen je kolonisten zich zwak voelen en ze zullen niet zo snel kunnen werken.
 Aan de andere kant, als je voorraden vol zijn en er voldoende reserves zijn, kun je het voedselrantsoen verhogen om het geluk een boost te geven! ",
         },
 	"helpMenuTitle_foodProduction_bugs": {
@@ -213,7 +212,7 @@ Aan de andere kant, als je voorraden vol zijn en er voldoende reserves zijn, kun
 		"spanish": "Plaga de insectos",
 		"french": "Infestations d'Insectes",
 		"portuges": "Insecto infestação",
-		"Dutch": "Insecten Plaag",
+		"dutch": "Insecten Plaag",
 	},
 	"helpMenuText_foodProduction_bugs": {
 		"english": "Every year, the dreaded bugs pose a serious danger to your harvest. If a bug infestation is detected, your colonists need to be quick and remove all affected plants before the infestation spreads. You can lose all your work in seconds!",
@@ -221,7 +220,7 @@ Aan de andere kant, als je voorraden vol zijn en er voldoende reserves zijn, kun
 		"spanish": "Una plaga de insectos es la peor pesadilla de los granjeros. Tan pronto como una planta sea infectada, los colonos deben ocuparse rápidamente de ella, antes de que la plaga se contagie a las demás. ¡Podrías perder toda tu cosecha en cuestión de segundos!",
 		"french": "Chaque année, les insectes constituent un grave danger pour votre récolte. Si une infestation d'insectes est détectée, vos colons doivent être rapides et retirer toutes les plantes affectées avant que l'infestation ne se propage. Vous pouvez perdre tout votre travail en quelques secondes !",
 		"portuges": "Todos os anos, os insetos representam um sério perigo para a sua cultura. Se uma infestação de insetos for detectada, seus colonos devem ser rápidos e remover todas as plantas afetadas antes que a infestação se espalhe. Você pode perder todo o seu trabalho em segundos!",
-		"Dutch": "Elk jaar vormen de gevreesde insecten een serieus gevaar voor uw oogst. Als een insectenplaag wordt gedetecteerd, moeten uw kolonisten snel zijn en alle aangetaste planten verwijderen voordat de besmetting zich verspreidt. U kunt al uw werk binnen enkele seconden kwijtraken!",
+		"dutch": "Elk jaar vormen de gevreesde insecten een serieus gevaar voor uw oogst. Als een insectenplaag wordt gedetecteerd, moeten uw kolonisten snel zijn en alle aangetaste planten verwijderen voordat de besmetting zich verspreidt. U kunt al uw werk binnen enkele seconden kwijtraken!",
 	},
 
 
@@ -237,7 +236,7 @@ Das einfachste und allseitsbewährte Heilmittel ist Eine Auszeit für den armen 
 Le remède le plus fondamental consiste à donner aux pauvres petits gars un peu de temps pour se reposer. Se coucher au lit offre aux corps un peu de temps pour se régénérer lentement. Consultez le panneau d'état (icône en forme de cœur) pour obtenir des détails sur l'état de santé.",
 		"portuges": "Muitas coisas ruins podem acontecer com os colonos que trabalham duro.
 O remédio mais básico é dar aos pobres um pouco de tempo para descansar. Dormir na cama dá ao corpo um pouco de tempo para se regenerar lentamente. Verifique o painel de status (ícone de coração) para obter detalhes sobre o status de integridade.",
-		"Dutch": "Er zijn veel slechte dingen die kunnen gebeuren met hardwerkende kolonisten.
+		"dutch": "Er zijn veel slechte dingen die kunnen gebeuren met hardwerkende kolonisten.
 De eenvoudigste remedie is om de arme jongens wat tijd te geven om te rusten. In bed liggen biedt de lichamen enige tijd om langzaam te regenereren. Bekijk het statuspaneel (hartpictogram) voor meer informatie over de status van de gezondheid. ",
 	},
 	"helpMenuTitle_health_alchemy": {
@@ -246,7 +245,7 @@ De eenvoudigste remedie is om de arme jongens wat tijd te geven om te rusten. In
 		"french": "Alchimie",
 		"spanish": "Alquimia",
 		"portuges": "Alquimia",
-		"Dutch": "Alchimie",
+		"dutch": "Alchemie",
 
 	},
 	"helpMenuText_health_alchemy": {
@@ -255,6 +254,7 @@ De eenvoudigste remedie is om de arme jongens wat tijd te geven om te rusten. In
 		"spanish": "Si entre tus colonos tienes algunos con experiencia de doctor, estos pueden manejar alquimia básica y producir pociones a partir de plantas medicinales. Aunque no sean muy agradables al paladar, estos cocteles aceleran el proceso de recuperación significantemente.",
 		"french": "Si vous avez des colons expérimentés en tant que médecin, ils peuvent généralement gérer une alchimie de base et produire des potions à partir de plantes médicinales. Bien que leur goût soit horrible, ces préparations accélèrent considérablement le processus de guérison.",
 		"portuges": "Se você tem experimentado colonos como um médico, eles geralmente podem lidar com a alquimia básica e produzir poções de plantas medicinais. Embora seu gosto seja horrível, essas preparações aceleram enormemente o processo de cura.",
+		"dutch": "Als je kolonisten hebt met enige ervaring als arts, kunnen ze meestal alchemie aan en produceren drankjes van genezende planten.Terwijl ze verschrikkelijk proeven, versnellen deze brouwsels het genezingsproces aanzienlijk.",
 	},
 	"helpMenuTitle_health_wounds": {
 		"english": "Wounds",
@@ -262,6 +262,7 @@ De eenvoudigste remedie is om de arme jongens wat tijd te geven om te rusten. In
 		"french": "Blessures",
 		"spanish": "Heridas",
 		"portuges": "Feridas",
+		"dutch": "Wonden",
 	},
 	"helpMenuText_health_wounds": {
 		"english": "Doctors show their true strength when dealing with badly wounded colonists. When push comes to shove and the colony needs to be defended against raiders, injuries are inevitable. Colonists can lose consciousness on the battlefield. While they are losing blood and holding on to dear live, a doctor can rush out, bandage their wounds and administer healing potions to prevent the worst.",
@@ -269,6 +270,7 @@ De eenvoudigste remedie is om de arme jongens wat tijd te geven om te rusten. In
 		"spanish": "Los doctores demuestran lo que valen cuando tratan con colonos malheridos. Cuando las cosas se ponen feas y los enemigos atacan tu asentamiento, las lesiones son inevitables. Los colonos caen noqueados al suelo. Cuando están perdiendo sangre y apenas se aferran a la vida, un doctor llega al rescate, venda las heridas y les administra pociones de vida para prevenir la tragedia.",
 		"french": "Les médecins montrent leur véritable force face aux colons gravement blessés. Lorsque les conditions sont difficiles et que la colonie doit être défendue contre les pillards, les blessures sont inévitables. Les colons peuvent perdre conscience sur le champ de bataille. Pendant qu’ils perdent du sang et s’accrochent à leur vie chère, un médecin peut courir, panser leurs plaies et administrer des potions de soin pour prévenir le pire.",
 		"portuges": "Os médicos mostram sua verdadeira força contra os colonos seriamente feridos. Quando as condições são difíceis e a colônia deve ser defendida contra saqueadores, as lesões são inevitáveis. Os colonos podem perder a consciência no campo de batalha. Como eles perdem sangue e se apegam às suas vidas, um médico pode correr, curar suas feridas e administrar poções de cura para evitar o pior.",
+		"dutch": "Artsen tonen hun ware kracht in het omgaan met zwaar gewonde kolonisten. Als het erop aan komt en de kolonie moet worden verdedigd tegen overvallers, zijn blessures onvermijdelijk. "Kolonisten kunnen het bewustzijn verliezen op het slagveld, terwijl ze bloed verliezen en vasthouden aan lieverd leven, een arts kan naar buiten rennen, hun wonden verbinden en genezende drankjes toedienen om het ergste te voorkomen. ",
 	},
 	"helpMenuTitle_health_illnesses": {
 		"english": "Illnesses",
@@ -276,6 +278,7 @@ De eenvoudigste remedie is om de arme jongens wat tijd te geven om te rusten. In
 		"french": "Maladies",
 		"spanish": "Enfermedades",
 		"portuges": "Doenças",
+		"dutch": "Ziektes",
 	},
 	"helpMenuText_health_illnesses": {
 		"english": "Finally, big colonies are prone to illnesses spreading amongst the colonists. Make sure to keep a good stock of medicine in storage and have a trained doctor attend to them with regular treatments for better chances of recovery.",
@@ -283,6 +286,8 @@ De eenvoudigste remedie is om de arme jongens wat tijd te geven om te rusten. In
 		"spanish": "Finalmente, las grandes colonias son vulnerables a fuertes epidemias de enfermedades. Asegúrate de tener siempre una buena reserva de medicina y un doctor entrenado para atenderlos con tratamientos. Él evitará que ocurra una tragedia.",
 		"french": "Enfin, les grandes colonies sont exposées aux maladies qui se propagent parmi les colons. Assurez-vous de conserver un bon stock de médicaments et demandez à un médecin qualifié de les traiter régulièrement pour vous offrir de meilleures chances de guérison.",
 		"portuges": "Finalmente, grandes colônias estão expostas a doenças que se espalham entre os colonos. Certifique-se de manter um bom estoque de medicamentos e ter um médico qualificado para tratá-los regularmente para lhe dar uma chance melhor de cura.",
+		"dutch": "Ten slotte zijn grote kolonies vatbaar voor ziektes die zich verspreiden onder de kolonisten, zorg ervoor dat je een goede voorraad medicijnen in bewaring houdt en laat een getrainde arts hen bijstaan met regelmatige behandelingen voor betere kansen op herstel.",
+
 	},
 	"helpMenuText_immigration": {
 		"english": "Your starting crew may be hardworking or not, but the colony will never reach greatness if it doesn’t grow. To attract immigrants you will need to build a big bonfire on a tower. This light signal, shining far into the distance, is seen by random wanderers and explorers.
@@ -293,6 +298,8 @@ Some may come alone or with friends to visit you and ask to join the colony.",
 Certains peuvent venir seuls ou avec des amis vous rendre visite et demander à rejoindre la colonie.",
 		"portuges": "Sua equipe inicial pode trabalhar duro ou não, mas a colônia nunca alcançará um bom nível se não se desenvolver. Para atrair imigrantes, você terá que construir um grande incêndio em uma torre. Este sinal luminoso, que brilha à distância, é visto por viajantes e exploradores aleatórios.
 Alguns podem vir sozinhos ou com amigos para visitá-lo e pedir para entrar na colônia.",
+		"dutch": "Je startploeg kan hard werken of niet, maar de kolonie zal nooit groot worden als het niet groeit. Om immigranten aan te trekken, moet je een groot vuur op een toren bouwen. Dit lichtsignaal, dat ver in de verte schijnt, is gezien door willekeurige zwervers en ontdekkingsreizigers.
+Sommigen kunnen alleen komen of met vrienden om je te bezoeken en vragen om lid te worden van de kolonie. ",
 	},
 	"helpMenuTitle_immigration_expectations": {
 		"english": "Expectations",
@@ -300,6 +307,7 @@ Alguns podem vir sozinhos ou com amigos para visitá-lo e pedir para entrar na c
 		"french": "Attentes",
 		"spanish": "Expectativas",
 		"portuges": "Expectativas",
+		"dutch": "Verwachtingen",
 	},
 	"helpMenuText_immigration_expectations": {
 		"english": "Once the colony starts growing and getting more and more wealthy, the colonists want to have a piece of the pie as well. They start expecting good food, a nice looking, comfortable home and a degree of general life statisfaction.
@@ -312,6 +320,8 @@ Si no les das esos placeres, los colonos no se te revelarán, pero no podrás se
 Ne pas répondre à ces attentes ne vous oppose pas aux colons, mais empêche la croissance future : lorsque les migrants envisagent votre colonie, ils tiennent compte des avantages et des atouts de la vie dans votre colonie. Si les attentes de vos colons ne sont pas satisfaites, vous ne pourrez pas convaincre de nouvelles personnes de les rejoindre !",
 		"portuges": "Uma vez que a colônia começa a crescer e se tornar mais rica, os colonos também querem ter sua parte na torta. Eles começam a esperar boa comida, uma casa agradável e confortável e um grau geral de satisfação.
 O não cumprimento dessas expectativas não desafia os colonos, mas impede o crescimento futuro: quando os migrantes consideram sua colônia, eles consideram os benefícios e os ativos da vida em sua colônia. Se as expectativas de seus colonos não forem satisfeitas, você não será capaz de convencer novas pessoas a se juntarem a elas!",
+		"dutch": "Zodra de kolonie begint te groeien en steeds rijker wordt, willen de kolonisten ook een stukje van de taart: ze verwachten goed eten, een mooi ogend, comfortabel huis en een zekere mate van algemene levenservaring.
+Als u niet aan deze verwachtingen voldoet, worden de kolonisten niet tegen u gekeerd, maar het belet toekomstige groei: aangezien migranten uw kolonie overdenken, houden zij rekening met de voordelen en voordelen van het leven in uw kolonie. Als de verwachtingen van je kolonisten niet worden vervuld, kun je nieuwe mensen niet overtuigen om mee te doen! ",
 	},
 	"helpMenuTitle_immigration_overview": {
 		"english": "Immigration Overview",
@@ -319,6 +329,7 @@ O não cumprimento dessas expectativas não desafia os colonos, mas impede o cre
 		"french": "Vue d'Ensemble de l'Immigration",
 		"spanish": "Resumen de inmigración",
 		"portuges": "Visão geral da imigração",
+		"dutch": "Immigratieoverzicht",
 	},
 	"helpMenuText_immigration_overview": {
 		"english": "Click on your bonfire to get a detailed overview of the immigration status.
@@ -331,6 +342,8 @@ En esta imagen las expectaciones de los colonos no han sido completadas, por lo 
 Sur cette image, les attentes des colons ne sont pas satisfaites et la colonie ne se développera donc pas.",
 		"portuges": "Clique no seu grande fogo para uma visão detalhada do status de imigração.
 Nesta imagem, as expectativas dos colonos não estão satisfeitas e a colônia não se desenvolverá."
+		"dutch": "Klik op je vreugdevuur voor een gedetailleerd overzicht van de immigratiestatus.
+In deze afbeelding zijn de verwachtingen van de kolonisten niet vervuld, dus de kolonie zal niet groeien.",
 	},
 
 	"helpMenuText_professions": {
@@ -344,6 +357,8 @@ Aún así, todos en tu colonia son responsables de construir suelos, muros y mue
 Cependant, chaque membre de la colonie est responsable de la construction des sols, des murs et des meubles, quelle que soit leur mission !",
 		"portuges": "Profissões podem ajudar a automatizar tarefas repetitivas na colônia. Use o painel de tarefas (ícone do martelo) na visão geral dos personagens para atribuir diferentes profissões para o seu povo. Eles executam automaticamente as tarefas associadas ao seu trabalho.
 No entanto, cada membro da colônia é responsável pela fabricação de pisos, paredes e móveis, independentemente da sua missão!",
+		"dutch": "Beroepen kunnen helpen bij het automatiseren van repetitieve taken in de kolonie.Gebruik het taakvenster (hamerpictogram) in het tekenoverzicht om verschillende beroepen aan uw inwoners toe te wijzen.Ze gaan vanaf nu de taken uitvoeren die zijn gekoppeld aan hun taak.
+Iedereen in de kolonie is echter verantwoordelijk voor het bouwen van vloeren, muren en meubels, ongeacht hun opdracht! ",
 	},
 	"helpMenuTitle_professions_experience": {
 		"english": "Job Experience and Promotions",
@@ -351,6 +366,7 @@ No entanto, cada membro da colônia é responsável pela fabricação de pisos, 
 		"french": "Expérience Professionnelle et Promotions",
 		"spanish": "Experiencia de trabajo y promociones",
 		"portuges": "Experiência Profissional e Promoções",
+		"dutch": "Werkervaring en promoties",
 	},
 	"helpMenuText_professions_experience": {
 		"english": "The colonists stage in their profession is shown with the stars in the job panel. With every completed task, your colonists gather experience for the relevant profession.\nYou can see their experience in the job panel and use the promote button to unlock the next level in their career. A higher level usually comes with new skills that allows them to use better tools and craft more advanced items.",
@@ -360,6 +376,7 @@ Die aktuelle Berufsstufe und den aktuellen Erfahrungswert kannst du im Berufefen
 Puedes revisar el nivel y experiencia de un colono en su pestaña de trabajo. Si ha adquirido suficiente experiencia puedes promocionarlo al siguiente nivel. Esto desbloqueará nuevas habilidades que le permitirán utilizar nuevas herramientas o crear elementos más avanzados.",
 		"french": "Le niveau  des colons dans leur profession est montré avec les étoiles dans le panneau des tâches. Avec chaque tâche accomplie, vos colons accumulent de l'expérience pour la profession en question.\nVous pouvez consulter leur expérience dans le panneau des tâches et utiliser le bouton Promouvoir pour accéder au niveau supérieur de leur carrière. Un niveau plus élevé s'accompagne généralement de nouvelles compétences qui leur permettent d'utiliser de meilleurs outils et de fabriquer des objets plus avancés.",
 		"portuges": "O nível dos colonos em sua profissão é mostrado com as estrelas no painel de tarefas. Com cada tarefa concluída, seus colonos acumulam experiência para a profissão em questão. Você pode visualizar sua experiência no painel de tarefas e usar o botão Promover para acessar seu próximo nível de carreira. Um nível mais alto geralmente vem com novas habilidades que lhes permitem usar ferramentas melhores e fazer objetos mais avançados.",
+		"dutch": "De kolonisten die in hun beroep stappen, worden weergegeven met de sterren in het taakvenster. Met elke voltooide taak verzamelen je kolonisten ervaringen voor het relevante beroep. \ NJe kunt hun ervaring zien in het taakvenster en de knop Promover gebruiken om de volgende te ontgrendelen niveau in hun carrière. Een hoger niveau komt meestal met nieuwe vaardigheden waarmee ze beter gereedschap kunnen gebruiken en meer geavanceerde voorwerpen kunnen maken. ",
 	},
 	"helpMenuTitle_professions_education": {
 		"english": "Education",
@@ -367,6 +384,7 @@ Puedes revisar el nivel y experiencia de un colono en su pestaña de trabajo. Si
 		"french": "Formation",
 		"spanish": "Formación",
 		"portuges": "Formação",
+		"dutch": "Opleiding",
 	},
 	"helpMenuText_professions_education": {
 		"english": "Sometimes you just can’t wait for learning by doing and your colonists need to look up how to do more complicated stuff to advance to the next stage in their career more easily. Build a book shelf so they can pick up books about their profession and gather experience much faster.
@@ -379,6 +397,8 @@ Sin embargo, para el soldado es mejor un aprendizaje práctico. Construye un man
 Il est conseillé aux soldats de s’entraîner au combat avec un mannequin d’entraînement, car il a été démontré que cette méthode était moins sujette aux blessures que de faire de leur compagnon de colonie leur adversaire de combat.",
 		"portuges": "Às vezes, você simplesmente não pode esperar para aprender fazendo, e seus colonos têm que procurar maneiras de fazer coisas mais complexas para chegar ao próximo passo em sua carreira mais facilmente. Construa uma estante de livros para que eles possam obter livros sobre sua profissão e ganhar experiência muito mais rapidamente.
 Os soldados são aconselhados a treinar em combate com um manequim de treinamento, já que este método mostrou-se menos propenso a lesões do que fazer sua colônia acasalar com seu oponente de combate.",
+		"dutch": "Soms kan je gewoon niet wachten om te leren door te doen en moeten je kolonisten opzoeken hoe ze ingewikkelder dingen kunnen doen om gemakkelijker door te kunnen naar de volgende fase van hun carrière. Een boekenplank bouwen zodat ze boeken over hun beroep kunnen ophalen en veel sneller ervaring opdoen.
+Soldaten worden geadviseerd om te trainen voor een gevecht met een trainingspop, omdat op die manier is aangetoond dat ze minder kwetsbaar zijn voor verwondingen dan dat ze een medekolonie hun sparringpartner maken. ",
 	},
 	"helpMenuText_mood": {
 		"english": "While most colonists are not very picky about their circumstances, they do require a certain level of comfort and safety to reach happiness. Exhaustion, pain, and the death of a friend can all be causes for bad mood. Provide good care, food and entertainment to keep the spirits up. Look at the status panel in the character screen to read the minds of your colonists.",
@@ -386,6 +406,7 @@ Os soldados são aconselhados a treinar em combate com um manequim de treinament
 		"spanish": "Aunque la mayoría de colonos no tienen un alto nivel de vida, aspiran por algunos niveles de comodidad y seguridad. Si cuidas bien sus necesidades, su humor se verá recompensado. El agotamiento, el dolor y la muerte de un amigo a su vez conducen a un deterioro del estado de ánimo, por lo que debes tratar de evitarlo o al menos compensarlo. Incluso los antiguos romanos sabían sobre el poder del 'pan y los juegos' para mantener a la población feliz. Sin embargo, a diferencia de ellos, también puedes leer los pensamientos de tus colonos en el resumen de personaje e informarte tan bien sobre sus deseos y problemas.",
 		"french": "Bien que la plupart des colons ne soient pas très difficiles quant à leur situation, ils ont besoin d'un certain niveau de confort et de sécurité pour être heureux. L'épuisement, la douleur et la mort d'un ami peuvent tous être des causes de mauvaise humeur. Fournir de bons soins, de la nourriture et du divertissement permet de garder le moral. Regardez le panneau d'état dans l'écran du personnage pour lire les pensées de vos colons.",
 		"portuges": "Embora a maioria dos colonos não seja muito difícil em sua situação, eles precisam de um certo nível de conforto e segurança para serem felizes. O cansaço, a dor e a morte de um amigo podem ser causas de mau humor. Oferecer bons cuidados, comida e entretenimento ajuda a manter a moral. Olhe para o painel de status na tela do personagem para ler os pensamentos de seus colonos.",
+		"dutch": "Hoewel de meeste kolonisten niet erg kieskeurig zijn over hun omstandigheden, hebben ze wel een bepaald niveau van comfort en veiligheid nodig om geluk te bereiken. Uitputting, pijn en de dood van een vriend kunnen allemaal oorzaken zijn voor een slecht humeur. Zorg voor goede zorg, voedsel en entertainment om de gemoederen wakker te houden. Kijk naar het statuspaneel in het personagescherm om de geesten van je kolonisten te lezen.",
 	},
 	"helpMenuTitle_mood_rebellion": {
 		"english": "Rebellion",
@@ -393,6 +414,7 @@ Os soldados são aconselhados a treinar em combate com um manequim de treinament
 		"french": "Rébellion",
 		"spanish": "Rebelión",
 		"portuges": "Rebelião",
+		"dutch": "Opstand",
 	},
 	"helpMenuText_mood_rebellion": {
 		"english": "Your colonists give their best, but everyone has their breaking point. Hardships can lead to bad mood, bad mood can lead to hopelessness and hopelessness can lead to anger, apathy, or desertion (no not the dark side in this case). Your colonists may remove themselves from your command and choose to do their own thing instead.",
@@ -400,6 +422,7 @@ Os soldados são aconselhados a treinar em combate com um manequim de treinament
 		"spanish": "Tus colonos dan lo mejor de ellos mismos, para satisfacer totalmente tus deseos. Pero eso no los convierte en esclavos sin consideración propia. Las dificultades pueden llevar a un mal humor, el mal humor puede llevar a la desesperanza y la desesperanza puede conducir a la ira, la apatía o la deserción. Tus colonos pueden empezar a ignorarte y hacer lo que les plazca.",
 		"french": "Vos colons font de leur mieux, mais chacun a son point de rupture. Les difficultés peuvent mener à la mauvaise humeur, la mauvaise humeur peut mener au désespoir et le désespoir peut mener à la colère, à l'apathie ou à la désertion. Vos colons peuvent se retirer de votre commandement et choisir de faire ce qu'ils veulent à la place.",
 		"portuges": "Seus colonos estão fazendo o seu melhor, mas cada um tem seu ponto de ruptura. Dificuldades podem levar a mau humor, mau humor pode levar ao desespero e desespero pode levar a raiva, apatia ou deserção. Seus colonos podem se retirar do seu comando e optar por fazer o que quiserem..",
+		"dutch": "Uw kolonisten geven hun best, maar iedereen heeft zijn breekpunt, ontberingen kunnen leiden tot slecht humeur, slecht humeur kan tot hopeloosheid leiden en hopeloosheid kan tot woede, apathie of desertie leiden (in dit geval niet de duistere kant). kolonisten kunnen zichzelf van je commando verwijderen en ervoor kiezen om hun eigen ding te doen. ",
 	},
 	"helpMenuTitle_mood_inspiration": {
 		"english": "Inspiration",
@@ -407,6 +430,7 @@ Os soldados são aconselhados a treinar em combate com um manequim de treinament
 		"french": "Inspiration",
 		"spanish": "Inspiración",
 		"portuges": "Inspiração",
+		"dutch": "inspiratie",
 	},
 	"helpMenuText_mood_inspiration": {
 		"english": "On the other hand, your colonists could be having the time of their lives. If they are really happy, they can enter a state of inspiration in which they work with semmingly unlimited energy without needing any sleep! When they reach this rare state, they just cannot stop smiling.",
@@ -414,6 +438,7 @@ Os soldados são aconselhados a treinar em combate com um manequim de treinament
 		"spanish": "Por otra parte, tus colonos podrían estar teniendo el mejor momento de sus vidas. Si ellos están realmente felices, pueden entrar en un estado de inspiración, ¡en el que trabajarán con energía ilimitada y sin necesidad de dormir!. Si ellos llegan a este estado, no dejarán de sonreír.",
 		"french": "D'autre part, vos colons pourraient avoir le plus beau moment de leur vie. S'ils sont vraiment heureux, ils peuvent entrer dans un état d'inspiration dans lequel ils travaillent avec une énergie quasi illimitée sans avoir besoin de dormir ! Quand ils atteignent cet état rare, ils ne peuvent tout simplement pas arrêter de sourire.",
 		"portuges": "Por outro lado, seus colonos poderiam ter o melhor momento de suas vidas. Se eles são realmente felizes, eles podem entrar em um estado de inspiração em que trabalham com energia quase ilimitada sem precisar dormir! Quando atingem esse estado raro, eles simplesmente não conseguem parar de sorrir.",
+		"dutch": "Aan de andere kant kunnen je kolonisten de tijd van hun leven hebben. Als ze echt gelukkig zijn, kunnen ze een staat van inspiratie binnengaan waarin ze met semmingly onbeperkte energie werken zonder slaap nodig te hebben! Wanneer ze deze zeldzame staat bereiken, ze kunnen gewoon niet stoppen met lachen. ",
 	},
 	
 	"helpMenuTitle_wishes": {
@@ -422,6 +447,7 @@ Os soldados são aconselhados a treinar em combate com um manequim de treinament
 		"french": "Vœux",
 		"spanish": "Deseos",
 		"portuges": "Desejo",
+		"dutch": "Wensen",
 	},
 	"helpMenuText_wishes": {
 		"english": "Every inhabitant in the colony is here because of a dream.
@@ -439,6 +465,9 @@ Bien sûr, cela peut parfois être difficile. Mais pendant ce temps, les colons 
 		"portuges": "Cada habitante da colônia está aqui graças a um sonho.
 Um sonho de uma vida melhor.
 Claro, isso às vezes pode ser difícil. Mas durante esse tempo, os colonos querem construir uma casa de que gostem, algo em que se sintam à vontade. O que isso significa exatamente é exibido no painel de visualização dos desejos de cada dois pontos.",
+		"dutch": "Elke inwoner in de kolonie is hier vanwege een droom.
+Een droom van een beter leven.
+Natuurlijk zal het soms moeilijk zijn. Maar in de tussentijd willen de kolonisten een huis bouwen waar ze van genieten, iets waar ze zich prettig bij voelen. Wat dat precies betekent, wordt weergegeven in het paneel Wensenoverzicht van elke kolonist. ",
 	},
 	"helpMenuTitle_wishes_fulfillingDenying": {
 		"english": "Fulfilling and Denying Wishes",
@@ -446,6 +475,7 @@ Claro, isso às vezes pode ser difícil. Mas durante esse tempo, os colonos quer
 		"french": "Vœux Complétés et Refusés",
 		"spanish": "Completando o denegando deseos",
 		"portuges": "Desejos atendidos e rejeitado",
+		"dutch": "Wensen vervullen en weigeren",
 	},
 	"helpMenuText_wishes_fulfillingDenying": {
 		"english": "It's your decision whether you make the colonists happy or not. If you fulfill the wish of a colonist, he is going to become a little happier for a while.
@@ -458,6 +488,8 @@ En contraste, puedes declinar deseos también. Eso es decirle al colono que su d
 En revanche, vous pouvez également choisir de refuser les vœux. C'est comme cela que vous dites au colon que ce vœu ne se réalisera pas, alors il va penser à autre chose. Bien qu'il se sente toujours mal à propos de celui-ci.",
 		"portuges": "Cabe a você se você faz os colonos felizes ou não. Se você completar o desejo de um colono, ele ficará um pouco mais feliz por um tempo.
 Por outro lado, você também pode optar por recusar os votos. É assim que você diz ao colono que esse desejo não se tornará realidade, então ele pensará em outra coisa. Embora ele ainda se sinta mal com isso.",
+		"dutch": "Het is jouw beslissing of je de kolonisten nu gelukkig maakt of niet. Als je de wens van een kolonist vervult, zal hij een tijdje een beetje gelukkiger worden.
+U kunt er daarentegen ook voor kiezen om wensen af ​​te wijzen. Dat is hoe je de kolonist vertelt dat deze wens niet zal gebeuren, dus hij zal aan iets anders denken. Hoewel hij zich nog steeds slecht zal voelen. ",
 	},
 	"helpMenuTitle_wishes_satisfaction": {
 		"english": "Life satisfaction",
@@ -465,6 +497,7 @@ Por outro lado, você também pode optar por recusar os votos. É assim que voc�
 		"french": "Satisfaction de Vie",
 		"spanish": "Satisfacción de vida",
 		"portuges": "Satisfação de vida",
+		"dutch": "Levensvoldoening",
 	},
 	"helpMenuText_wishes_satisfaction": {
 		"english": "If you fulfill more and more wishes of your colonist, he is going to become ever more satisfied with his life in the colony. This satisfaction is not only necessary for attracting new migrants, but has some long term impact as well: With each satisfaction level, your colonist earns a life satisfaction point. Once he has enough of them, he can use these points to change one of his fundamental traits.
@@ -477,5 +510,7 @@ Por ejemplo, alguien que está sufriendo de pesimismo podría ser una gran carga
 Par exemple, une personne souffrant de pessimisme pourrait constituer un véritable frein pour la colonie. Cependant, s'il accumule suffisamment de points de satisfaction dans la vie, vous pouvez le laisser oublier son trait pessimiste et le remplacer par quelque chose de positif.",
 		"portuges": "Se você perceber mais e mais os desejos de seu colono, ele ficará cada vez mais satisfeito com sua vida na colônia. Essa satisfação não é apenas necessária para atrair novos migrantes, mas também tem um impacto de longo prazo: em cada nível de satisfação, seu colono ganha um ponto de satisfação na vida. Uma vez que ele tenha o suficiente, ele pode usar esses pontos para mudar uma de suas características básicas.
 Por exemplo, uma pessoa que sofre de pessimismo pode ser um verdadeiro obstáculo para a colônia. No entanto, se ele acumular pontos suficientes de satisfação na vida, você pode deixá-lo esquecer seu traço pessimista e substituí-lo por algo positivo.",
+		"dutch": "Als je meer en meer wensen van je kolonist vervult, zal hij steeds tevredener worden met zijn leven in de kolonie, deze tevredenheid is niet alleen noodzakelijk voor het aantrekken van nieuwe migranten, maar heeft ook een langetermijneffect: met elke voldoening niveau, je kolonist verdient een levenstevredenheidspunt. Zodra hij er genoeg van heeft, kan hij deze punten gebruiken om een ​​van zijn fundamentele eigenschappen te veranderen.
+Iemand met pessimisme kan bijvoorbeeld een echte belemmering zijn voor de kolonie. Als hij echter voldoende levenssatisfactiepunten verzamelt, kun je hem zijn pessimistische trek laten vergeten en vervangen door iets positiefs. ",
 	},
 }
